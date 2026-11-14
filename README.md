@@ -12,6 +12,7 @@ I build practical AI tools and explore how local models and agents can make ever
 | 💬 | [Awesome ChatGPT Chinese](https://github.com/AIMetaPhD/Awesome-ChatGPT-Chinese) | A Chinese-language collection of ChatGPT tutorials, tools, papers, and practical examples for developers and learners.<br>面向开发者与学习者的 ChatGPT 中文资料库，收录教程、工具、论文与应用实例。 |
 | 🎯 | [FocusDock AI](https://github.com/AIMetaPhD/agentic-focus-dock) | A local-first, AI-native focus dock with editable modes, offline rules, and a reviewable AI mode editor.<br>本地优先、AI 原生的专注 Dock：可编辑工作模式、离线规则与可审阅的 AI 模式编辑器。 |
 | 📄 | [AI LaTeX Studio](https://github.com/AIMetaPhD/ai-latex-studio) | A local-first LaTeX workspace on Overleaf CE, with an AI sidebar that proposes reviewable edits and fixes compile errors.<br>本地优先的 LaTeX 工作台（基于 Overleaf CE）：AI 侧栏提供可审阅的修改提议，并能修复编译错误。 |
+| 🔍 | [PaperFamiliar](https://github.com/AIMetaPhD/paper-familiar) | A local-first LaTeX review workbench: every finding quotes your exact source, style feedback learns only from papers you mark as your own, and no account or cloud is required.<br>本地优先的 LaTeX 论文审阅工作台：每条发现都引用原文精确片段，写作风格只从你本人标注的论文中学习，无需账号或云服务。 |
 
 > From AI ideas to useful things | 把 AI 想法做成有用的东西
 
