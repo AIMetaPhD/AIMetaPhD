@@ -9,7 +9,6 @@ I build practical AI tools and explore how local models and agents can make ever
 | | | for builders |
 |---|---|---|
 | 🧰 | [relaydesk](https://github.com/AIMetaPhD/relaydesk) | An open-source demo for agent-driven debugging: a browser interface, a computer worker, and one shared case record.<br>面向智能体调试的开源 demo：浏览器作为入口、电脑执行任务，请求与结果保存在同一份记录中。 |
-| 🧭 | [Agent Continuity](https://github.com/AIMetaPhD/agent-continuity) | A local-first workspace for versioned agent definitions, project memory and verifiable work handoffs across Claude Code, Codex and devices.<br>本地优先的 Agent 工作台：版本化定义、项目记忆、可验证交接，支持 Claude Code、Codex 与多设备。 |
 | 💬 | [Awesome ChatGPT Chinese](https://github.com/AIMetaPhD/Awesome-ChatGPT-Chinese) | A Chinese-language collection of ChatGPT tutorials, tools, papers, and practical examples for developers and learners.<br>面向开发者与学习者的 ChatGPT 中文资料库，收录教程、工具、论文与应用实例。 |
 | 🎯 | [FocusDock AI](https://github.com/AIMetaPhD/agentic-focus-dock) | A local-first, AI-native focus dock with editable modes, offline rules, and a reviewable AI mode editor.<br>本地优先、AI 原生的专注 Dock：可编辑工作模式、离线规则与可审阅的 AI 模式编辑器。 |
 | 📄 | [AI LaTeX Studio](https://github.com/AIMetaPhD/ai-latex-studio) | A local-first LaTeX workspace on Overleaf CE, with an AI sidebar that proposes reviewable edits and fixes compile errors.<br>本地优先的 LaTeX 工作台（基于 Overleaf CE）：AI 侧栏提供可审阅的修改提议，并能修复编译错误。 |
