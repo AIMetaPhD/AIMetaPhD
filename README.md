@@ -8,6 +8,7 @@ I build practical AI tools and explore how local models and agents can make ever
 
 | | | for builders |
 |---|---|---|
+| 📊 | [Antigravity Token Lens](https://github.com/AIMetaPhD/antigravity-token-dashboard) | A zero-dependency Local Web APP to monitor and visualize Google Antigravity token consumption, prompt cache savings, and estimated costs directly from local brain logs—works out-of-the-box for personal Pro accounts.<br>面向本机 Google Antigravity 的零依赖 Local Web APP：无需 Business 权限，个人 Pro 账号开箱即用，实时解析本地会话日志并可视化展示 Token 消耗、Prompt Cache 命中率与调用明细流水。 |
 | 🗣️ | [Agent Roundtable](https://github.com/AIMetaPhD/agentroundtable) (v0.1.0) [![GitHub Release](https://img.shields.io/github/v/release/AIMetaPhD/agentroundtable)](https://github.com/AIMetaPhD/agentroundtable/releases) | 本地优先的多智能体（Codex, Claude Code 等）协同圆桌 Local Web APP。基于 Node.js 原生 SQLite 构建，零依赖，支持文件快照安全隔离、离线 Mock 双模与自动讨论轮转。 |
 | 🔄 | [Agent Continuity](https://github.com/AIMetaPhD/agent-continuity) | A local-first workspace for versioned agent definitions, project memory and verifiable work handoffs across coding tools and devices.<br>本地优先的智能体工作台：版本化智能体定义、项目记忆与可验证的跨工具/跨设备工作交接。 |
 | 🧰 | [relaydesk](https://github.com/AIMetaPhD/relaydesk) | An open-source demo for agent-driven debugging: a browser interface, a computer worker, and one shared case record.<br>面向智能体调试的开源 demo：浏览器作为入口、电脑执行任务，请求与结果保存在同一份记录中。 |
